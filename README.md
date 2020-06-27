@@ -12,7 +12,7 @@ When a release is made, an installer can be found on the [releases](https://gith
 ## Building
 Required: `qt5 cmake`
 ```
-git clone --recurse-submodules https://github.com/pok3r-custom/Pok3rConf.git pok3rconf
+git clone --recurse-submodules https://github.com/dontworryboutit/Pok3rConf.git pok3rconf
 mkdir pok3rconf-build
 cd pok3conf-build
 cmake ../pok3rconf
