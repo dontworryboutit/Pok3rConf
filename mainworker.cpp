@@ -20,7 +20,7 @@
 const ZMap<DeviceType, int> known_devices = {
     { DEV_POK3R,        FLAG_SUPPORTED },
     { DEV_POK3R_RGB,    FLAG_NONE },
-    { DEV_POK3R_RGB2,   FLAG_NONE },
+    { DEV_POK3R_RGB2,   FLAG_SUPPORTED },
     { DEV_KBP_V60,      FLAG_NONE },
     { DEV_KBP_V80,      FLAG_NONE },
 };
